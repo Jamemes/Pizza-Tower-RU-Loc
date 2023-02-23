@@ -383,7 +383,7 @@ option_lang = "ЯЗЫК"
 option_vibration = "ТРЯСКА"
 option_timer = "ТАЙМЕР"
 option_timer_type = "ТИП ТАЙМЕРА"
-option_timer_level = "ЗА УРОВНЬ"
+option_timer_level = "ЗА УРОВЕНЬ"
 option_timer_save = "ЗА СОХРАНЕНИЕ"
 option_erase_save = "СТЕРЕТЬ ДАННЫЕ СОХРАНЕНИЯ"
 
