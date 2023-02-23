@@ -21,6 +21,12 @@ creditsfont = "creditsfont_ru"
 smallfont = "smallfont_ru"
 bigfont = "bigfont_ru"
 
+option_window_mode = "РЕЖИМ ЭКРАНА"
+option_windowed = "ОКОННЫЙ"
+option_confirm = "ПОДТВЕРДИТЬ НАСТРОЙКИ"
+option_revert = "ВОЗВРАТ К ИСХОДНЫМ ЧЕРЕЗ %..."
+room_towerfinalhallway = "КОМНАТА УПРАВЛЕНИЯ"
+
 credits_game = "ИГРА ОТ\n\nMcPig\nSertif"
 credits_music = "МУЗЫКА\n\nRonan \"Mr. Sauceman\" de Castel\nClascyJitto\nPost Elvis\n\nPIZZA MAYHEM\n\nBernadette \"Kyoobot\" Perez\nJared \"Jack Knife\" Shaw"
 credits_sfx = "ЗВУКИ\n\nClascyJitto\nRonan %Mr. Sauceman% de Castel\ncness_50b\nMcPig\nSertif\nJoel Chacon"
